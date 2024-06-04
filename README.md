@@ -1,4 +1,4 @@
-# This is Task: Write a Java program that reads a text file and counts the occurrences of each word in the file. The program should then display the word count for each unique word in alphabetical order.
+This is Task: Write a Java program that reads a text file and counts the occurrences of each word in the file. The program should then display the word count for each unique word in alphabetical order.
 
 Now for run this program ensure that you have java installation
 if you have no java installation, then following this: 
