@@ -4,8 +4,10 @@ Now for run this program ensure that you have java installation
 if you have no java installation, then following this: 
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (Java Development Kit)
 
-After successfully installation, open cmd in your project folder and then
-compile the program by written this: "javac SqaTask.java"
+After successfully installation, open cmd in your project folder 
+
+and then compile the program by written this: "javac SqaTask.java"
+
 And run the program: "java SqaTask Example.txt"
 
 Input:
