@@ -14,12 +14,21 @@ Input:
 The quick brown fox jumps over the lazy dog. The lazy dog slept. 
 
 Output:
+
 brown: 1
+
 dog: 2
+
 fox: 1
+
 jumps: 1
+
 lazy: 2
+
 over: 1
+
 quick: 1
+
 slept: 1
+
 the: 3
